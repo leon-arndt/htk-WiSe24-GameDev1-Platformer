@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 30dbaa428155848f39396471b55abe1a
+guid: db74e33dd19c14324bf4673ee172db39
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -144,14 +144,14 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4407c3bc156d64f96baf55e99b24e206
-      internalID: -159245870
+      spriteID: faffba496889e45f4a802bd0e1b43764
+      internalID: -2049004449
       vertices: []
       indices: 
       edges: []
@@ -165,14 +165,14 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c518e32ba54b44c63a26681907c98112
-      internalID: -1182864183
+      spriteID: 1548e5893e85c463985155bd9b61f465
+      internalID: 1181486362
       vertices: []
       indices: 
       edges: []
@@ -186,14 +186,14 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eec0c6d50e84e4dfdb5ef77f576045fb
-      internalID: 328108818
+      spriteID: fdbb95818604b4f3abc77ad49c80d46b
+      internalID: -1577663288
       vertices: []
       indices: 
       edges: []
@@ -207,14 +207,14 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 463703151405d4787a6e55bffc698d3e
-      internalID: -1073462479
+      spriteID: daece05bebb02411c8a056c3c52441ed
+      internalID: 1986196743
       vertices: []
       indices: 
       edges: []
@@ -230,10 +230,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Walk_0: -159245870
-      Walk_1: -1182864183
-      Walk_2: 328108818
-      Walk_3: -1073462479
+      Walk_0: -2049004449
+      Walk_1: 1181486362
+      Walk_2: -1577663288
+      Walk_3: 1986196743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
