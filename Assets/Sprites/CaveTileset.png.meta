@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -171,7 +171,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7006ca441c0b594caa2d38feeeba09c
+      spriteID: 4f38136811ffc4e458999e6cff6cdfd3
       internalID: 1773797418
       vertices: []
       indices: 
@@ -192,7 +192,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 420affc40ab79164489418ed2f034873
+      spriteID: 709013c3187c84627bc723606206fbdd
       internalID: 1413558802
       vertices: []
       indices: 
@@ -213,7 +213,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a75a63d36fe1504a88755ddf7f48ff4
+      spriteID: e8e0254ee32ef4442b41d6bce565fa7e
       internalID: -1277495364
       vertices: []
       indices: 
@@ -234,14 +234,98 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e5732328ed35614d8f4b6843b558fe6
+      spriteID: a709f6fddfbd046ffad6475ebeda7f09
       internalID: -1644748315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CaveTileset_spike
+      name: CaveTileset_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3557e36a33c24271b280d8be6607c85
+      internalID: 548400784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveTileset_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac4d5356711b4ff4b9bf8cf58fc4bb8
+      internalID: 1843303221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveTileset_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdb8c7f6b9d344d3b82a4d82636bb80
+      internalID: -1676871686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveTileset_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2596a6bbd96a64104bf766b7fdceb28e
+      internalID: -1113195988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveTileset_9
       rect:
         serializedVersion: 2
         x: 0
@@ -249,14 +333,77 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e71e40df4aad040638e823e68d868585
-      internalID: -831986979
+      spriteID: 9cadefe5056c24e3a8128a4fd4fb49d2
+      internalID: 1549622114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveTileset_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d9c37bd6d54b75a5bcc74e0a2e281
+      internalID: -1799218181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveTileset_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad491ed814bb44f3e8a396753a755767
+      internalID: 677099718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveTileset_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff4ec65b297c4627bd221caa6fe2833
+      internalID: -1922658528
       vertices: []
       indices: 
       edges: []
@@ -274,10 +421,17 @@ TextureImporter:
     nameFileIdTable:
       CaveTileset_0: 728146245
       CaveTileset_1: 1773797418
+      CaveTileset_10: -1799218181
+      CaveTileset_11: 677099718
+      CaveTileset_12: -1922658528
       CaveTileset_2: 1413558802
       CaveTileset_3: -1277495364
       CaveTileset_4: -1644748315
-      CaveTileset_spike: -831986979
+      CaveTileset_5: 548400784
+      CaveTileset_6: 1843303221
+      CaveTileset_7: -1676871686
+      CaveTileset_8: -1113195988
+      CaveTileset_9: 1549622114
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
