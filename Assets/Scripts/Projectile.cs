@@ -6,6 +6,11 @@ public class Projectile : MonoBehaviour
     private float _speed = 10f;
     private Vector2 _direction;
 
+    private void Start()
+    {
+        Destroy(gameObject, 2f);
+    }
+
     private void Update()
     {
         transform.Translate(_direction * _speed * Time.deltaTime);
