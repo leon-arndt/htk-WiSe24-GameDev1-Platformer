@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ca1ae1d9-458a-45f0-b25d-4ff82a152e2b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.htk-WiSe24-GameDev1-Platformer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.htk-WiSe24-GameDev1-Platformer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +87,7 @@
       <workItem from="1731079608845" duration="931000" />
       <workItem from="1731672512972" duration="242000" />
       <workItem from="1731673370950" duration="4337000" />
+      <workItem from="1732884408561" duration="157000" />
     </task>
     <servers />
   </component>
