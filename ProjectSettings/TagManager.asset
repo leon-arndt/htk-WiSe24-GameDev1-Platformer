@@ -8,6 +8,8 @@ TagManager:
   - Checkpoint
   - Pickup
   - ScoreSystem
+  - ScoreSystemSpecial
+  - PickupSpecial
   layers:
   - Default
   - TransparentFX
