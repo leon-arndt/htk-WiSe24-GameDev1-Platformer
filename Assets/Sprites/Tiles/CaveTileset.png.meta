@@ -408,6 +408,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: CaveTileset_door
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03fda07e5621014ab8ab9e467dc348b
+      internalID: 1290571147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -432,6 +453,7 @@ TextureImporter:
       CaveTileset_7: -1676871686
       CaveTileset_8: -1113195988
       CaveTileset_9: 1549622114
+      CaveTileset_door: 1290571147
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
