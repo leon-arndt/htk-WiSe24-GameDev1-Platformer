@@ -940,8 +940,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 273, y: -38.19995}
-  m_SizeDelta: {x: 150, y: 50}
+  m_AnchoredPosition: {x: 223.17111, y: -38.19995}
+  m_SizeDelta: {x: 50.3422, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6054094415363241365
 CanvasRenderer:
@@ -995,9 +995,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"scoreText","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
-      Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"scoreIcon","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1673075956582480835}
+    - {fileID: 916327099251156474}
 --- !u!114 &4601535757590337366
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1031,7 +1033,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4562070163030527676
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1206,14 +1208,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.08677464, g: 0.57317126, b: 0.735849, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -535386276, guid: 0e11dec02cbe848cbb8ed7a07bca5997, type: 3}
+  m_Sprite: {fileID: -86879749, guid: 81619870b6fca41858c076ae8edbe385, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
