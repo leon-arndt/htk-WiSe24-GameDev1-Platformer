@@ -10,6 +10,8 @@ TagManager:
   - ScoreSystem
   - ScoreSystemSpecial
   - PickupSpecial
+  - HealthSystem
+  - Enemy
   layers:
   - Default
   - TransparentFX
