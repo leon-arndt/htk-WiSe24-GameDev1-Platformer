@@ -12,6 +12,7 @@ TagManager:
   - PickupSpecial
   - HealthSystem
   - Enemy
+  - FadeSystem
   layers:
   - Default
   - TransparentFX
